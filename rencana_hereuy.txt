@@ -1,0 +1,8 @@
+- belajar bahasa pemrograman back end
+    *php
+- belajar bahasa pemrograman frontend
+    *html
+    *css
+    *js
+-belajar framework backend
+-belajar framework frontend
